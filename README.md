@@ -35,25 +35,14 @@ npm start
 
 
 ```yaml
-  "dependencies": {
-    "@emotion/react": "^11.11.1",
-    "@emotion/styled": "^11.11.0",
-    "@mui/material": "^5.14.13",
+"dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "@types/jest": "^27.5.2",
-    "@types/material-ui": "^0.21.12",
-    "@types/node": "^16.18.58",
-    "@types/react": "^18.2.28",
-    "@types/react-dom": "^18.2.13",
-    "@types/styled-components": "^5.1.28",
+    "mathjs": "^11.11.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-hook-form": "^7.47.0",
     "react-scripts": "5.0.1",
-    "styled-components": "^6.0.8",
-    "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
   }
   
